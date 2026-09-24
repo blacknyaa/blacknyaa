@@ -1,9 +1,0 @@
-[
-  {"id": "full", "title": "フルスタック", "note": "画面からサーバまで通して組む"},
-  {"id": "api", "title": "API とシステム", "note": "負荷と権限を見据えて設計する"},
-  {"id": "db", "title": "データベース", "note": "構造、索引、トランザクション"},
-  {"id": "cloud", "title": "クラウド", "note": "AWS、Docker、Kubernetes"},
-  {"id": "ops", "title": "開発と運用", "note": "統合、デプロイ、監視"},
-  {"id": "ai", "title": "AI の接続", "note": "前処理、推論、既存システムへの組み込み"},
-  {"id": "back", "title": "バックエンド", "note": "キュー、キャッシュ、高い処理量"}
-]
