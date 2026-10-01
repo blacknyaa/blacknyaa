@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/AI開発-6年目-2E8B57?style=for-the-badge" />
 <img src="https://img.shields.io/badge/実務-8年-2E8B57?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PHP・Python・WordPress-10年以上-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Web・アプリ制作-170件以上-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/システム・ツール開発-80件以上-1E90FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Based_in-Osaka,_Japan-blueviolet?style=for-the-badge" />
 
 </div>
@@ -36,6 +38,8 @@ ChatGPT・Claude・RAG を使ったLLM開発と業務自動化を軸に、React/
 | Slack / LINE ボット | 1日 **2,000件以上** のメッセージを自動処理 |
 | WordPress制作 | 不動産・医療・サロン系で **30サイト以上** |
 | サーバー移行 | ダウンタイム **ほぼゼロ** |
+| Web・アプリの制作 | **170件以上** |
+| システム・ツールの開発 | **80件以上** |
 | ランサーズ | 完了率 **100%** ・評価は全件「満足」・**認定ランサー** |
 
 数字の出どころは [ランサーズのプロフィール](https://www.lancers.jp/profile/Ponta-0363) にあります。
@@ -171,7 +175,7 @@ Freelance AI engineer based in Osaka, Japan. Generative AI and web development.
 
 I build LLM applications and workflow automation with ChatGPT, Claude and RAG, alongside web work in React/Next.js, Shopify and WordPress, and AWS migrations — design through to operation, handled solo.
 
-Selected results: a RAG chatbot answering at 98% accuracy, an AI matching system that lifted conversion by 42%, Slack and LINE bots processing over 2,000 messages a day, and 30+ WordPress sites across real estate, healthcare and salon businesses. Certified Lancer on Lancers with a 100% completion rate.
+Across eight years I have shipped 170+ web and app projects and 80+ systems and internal tools. Selected results: a RAG chatbot answering at 98% accuracy, an AI matching system that lifted conversion by 42%, Slack and LINE bots processing over 2,000 messages a day, and 30+ WordPress sites across real estate, healthcare and salon businesses. Certified Lancer on Lancers with a 100% completion rate.
 
 Recent repositories include a sealed-bid auction platform for international IT asset trading (per-lot RSA encryption of bid amounts, Excel manifest import, TOTP multi-factor auth, seven-year audit log, trilingual UI), and a maintenance reporting system for hospital facilities written in dependency-free PHP to fit a constrained shared host.
 
