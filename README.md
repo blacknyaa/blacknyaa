@@ -17,7 +17,7 @@
 
 <br/>
 
-## ブラックにゃー
+# ブラックにゃー（blacknyaa）
 
 生成AI×Web開発のフリーランスAIエンジニアです。大阪在住。
 
@@ -149,7 +149,7 @@ AWS Certified Solutions Architect – Professional / AWS Machine Learning Engine
 
 ## 書いているもの
 
-[Zenn の下書き置き場](https://github.com/blacknyaa/my-zenn-articles)。詰まったところと、その回避策を中心に。note と Qiita にも書いています。
+[Zenn](https://zenn.dev/blacknyaa) と [note](https://note.com/blacknyaa)、[Qiita](https://qiita.com/blacknyaa) に書いています。原稿は [my-zenn-articles](https://github.com/blacknyaa/my-zenn-articles) で管理しています。詰まったところと、その回避策が中心です。
 
 <br/>
 
@@ -178,3 +178,29 @@ Recent repositories include a sealed-bid auction platform for international IT a
 Certifications include AWS Solutions Architect – Professional, AWS Machine Learning Engineer, AWS Developer, Microsoft Azure, and the Applied Information Technology Engineer Examination.
 
 Open to contract work, including projects where the requirements are still taking shape. NDAs are fine.
+
+<br/>
+
+---
+
+<br/>
+
+## リンク
+
+| | |
+|---|---|
+| ランサーズ | [ブラックにゃー (Ponta-0363)](https://www.lancers.jp/profile/Ponta-0363) |
+| note | [note.com/blacknyaa](https://note.com/blacknyaa) |
+| Qiita | [qiita.com/blacknyaa](https://qiita.com/blacknyaa) |
+| Zenn | [zenn.dev/blacknyaa](https://zenn.dev/blacknyaa) |
+| YOUTRUST | [youtrust.jp/users/blacknyaa](https://youtrust.jp/users/blacknyaa) |
+| GitHub | [github.com/blacknyaa](https://github.com/blacknyaa) |
+
+<div align="center">
+<sub>
+
+ブラックにゃー / blacknyaa — 大阪のフリーランスAIエンジニア
+Osaka, Japan — Generative AI × Web Development
+
+</sub>
+</div>
